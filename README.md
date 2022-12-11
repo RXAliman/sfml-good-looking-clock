@@ -6,7 +6,7 @@ Esc - Exit Program
 
 # Screenshots
 
-This is dependent on the time of the day:
+ Background image is dependent on the time of the day:
 
 ![image](https://user-images.githubusercontent.com/113037032/206899398-0b34aaf9-447f-446a-b8f1-cdaa34d58592.png)
 
