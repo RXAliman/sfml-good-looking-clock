@@ -12,6 +12,8 @@ Esc - Exit Program
 
 ![image](https://user-images.githubusercontent.com/113037032/206911038-524b84a2-9712-4293-803e-775c39ce195b.png)
 
+![image](https://user-images.githubusercontent.com/113037032/206934753-dd2c1555-b28a-4e4e-9750-317fdbac054e.png)
+
 # Important
 
 If you want to compile this application on your own, you have to create your own SFML project on Code::Blocks. There's so many tutorials on that. If you prefer to use other IDEs like Visual Studio, it's totally fine. You can freely use my code since they're just my practice projects on SFML. :)
